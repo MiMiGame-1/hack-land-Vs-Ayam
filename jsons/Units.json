@@ -46,6 +46,27 @@
 		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 		"uniqueTo": "Ayam"
 		"cost": 40
-	}
+	},
 	
+	{
+	
+        
+		"name": "682-Ayam",
+		"unitType": "Atomic Bomber",
+		"movement": 1,
+		"strength": 200,
+		"rangedStrength": 300,
+		"range": 10,
+		"cost": 600,
+		"requiredTech": "Nuclear Fission",
+		"requiredResource": "Uranium", "Oil",
+		"uniqueTo": "Ayam",
+		"replaces": "Atomic Bomb",
+		"promotions" : ["Evasion"],
+		"uniques": ["Nuclear weapon of Strength [1]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking",
+			"Blast radius [2]"],
+		"attackSound": "nuke"
+		// Plane rather than a missile - can be based in city or Carrier only.
+		// Can be intercepted, but must die for it not to take effect.
+	}
 ]
