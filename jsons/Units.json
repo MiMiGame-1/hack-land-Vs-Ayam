@@ -39,7 +39,7 @@
 		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow"
 	}
-	"name": "Nizam [Worker]",
+	"name": "Nizam Worker",
 		"unitType": "Civilian",
 	        "replaces": "Worker",
 		"movement": 2,
