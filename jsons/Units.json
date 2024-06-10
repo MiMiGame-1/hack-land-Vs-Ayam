@@ -37,7 +37,7 @@
 		"replaces": "Composite Bowman"
 		"uniqueTo": "Ayam",
 		"upgradesTo": "Crossbowman",
-		"attackSound": "arrow
+		"attackSound": "arrow"
 	}
 	
 ]
