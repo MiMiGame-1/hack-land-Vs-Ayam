@@ -59,7 +59,7 @@
 		"range": 10,
 		"cost": 600,
 		"requiredTech": "Nuclear Fission",
-		"requiredResource": "Uranium", "Oil",
+		"requiredResource": "Uranium",
 		"uniqueTo": "Ayam",
 		"replaces": "Atomic Bomb",
 		"promotions" : ["Evasion"],
