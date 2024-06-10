@@ -20,7 +20,7 @@
 		"cost": 40,
 		"requiredTech": "Archery",
 		"obsoleteTech": "Construction",
-		"replaces": "Bowman",
+		"replaces": "Archer",
 		"uniqueTo": "Ayam",
 		"upgradesTo": "Composite Bowman",
 		"attackSound": "arrow"
