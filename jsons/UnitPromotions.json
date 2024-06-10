@@ -7,4 +7,6 @@
 
 { "name": "Hax For Everyone! Ability", "uniques": [ "Can move after attacking", "Normal vision when embarked", "May attack when embarked", "Can see over obstacles", "May enter foreign tiles without open borders", "Ranged attacks may be performed over obstacles", "Can enter ice tiles", "Can pass through impassable tiles" ] }
 
+{ "name": "2nd Ayam Ability", "uniques": [ "Blast radius [1]", "May capture killed [All] units", "Uncapturable", "[100]% chance to intercept air attacks", "[2] additional attacks per turn", "Invisible to others", "[+27] [Gold] Ayam [All] }, 
+ 
 ]
