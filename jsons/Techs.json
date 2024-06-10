@@ -8,10 +8,8 @@
 		"techs": [
 			{
 				"name": "Ayam",
-				"row": 2,
+				"row": 3,
 				"prerequisites": ["Pottery"],
-				"quote": "Ayam"]
-      }
-		]
-	}
+				"quote": "Ayam"}]
+}
 ]
