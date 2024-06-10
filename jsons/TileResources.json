@@ -1,5 +1,5 @@
 [
-  { "name": "Ayam",
+  {             "name": "Ayam",
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Hill"],
 		"food": 4,
