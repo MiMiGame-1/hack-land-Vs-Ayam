@@ -22,7 +22,22 @@
 		"obsoleteTech": "Construction",
 		"replaces": "Archer",
 		"uniqueTo": "Ayam",
-		"upgradesTo": "Composite Bowman",
+		"upgradesTo": "Ayam-72",
 		"attackSound": "arrow"
 	}
+	
+        {"name": "Ayam-72",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 12,
+		"rangedStrength": 14,
+		"cost": 75,
+		"requiredTech": "Construction",
+		"obsoleteTech": "Machinery",
+		"replaces": "Composite Bowman"
+		"uniqueTo": "Ayam",
+		"upgradesTo": "Crossbowman",
+		"attackSound": "arrow
+	}
+	
 ]
