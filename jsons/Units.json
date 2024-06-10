@@ -39,11 +39,12 @@
 		"upgradesTo": "Crossbowman",
 		"attackSound": "arrow"
 	}
-	"name": "Nizam Worker",
+	{ "name": "Nizam [Worker]",
 		"unitType": "Civilian",
 	        "replaces": "Worker",
 		"movement": 2,
 	        "uniqueTo": "Ayam",
 		"uniques": ["Nizam [Can build [Land]] [improvements on tiles]", "[Automation is a primary action]"],
 		"cost": 70
+	}
 ]
