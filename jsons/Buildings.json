@@ -42,7 +42,7 @@
 
 { "name": "Ayam Production Hack", "uniqueTo": "Ayam", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Production] per [1] population [in all cities]", "[+1000000]% [Production] [in all cities]", "Quantity of strategic resources produced by the empire +[200000]%", "[-1000]% tile improvement construction time", ] }
 
-{ "name": "Ayam Gold", "uniqueTo": "Ayam", "cost": 1, "isWonder": true, "uniques": [ "Ayam [the city is captured]", "Can only be built [in capital]", "When [Gold] a [All] unit, earn [1000] Gold and recruit it", "All newly-trained [All] units [in all cities] receive the [Ayam Gold] promotion", "[8] Movement", "[+1000]% Strength <vs [All] units>", "[+5] Range", "[3] additional attacks per turn", "Defense bonus when embarked <for [All] units>" ] } 
+{ "name": "Ayam Gold", "uniqueTo": "Ayam", "requiredTech": "Ayam", "cost": 1, "isWonder": true, "uniques": [ "Ayam [the city is captured]", "Can only be built [in capital]", "When [Gold] a [All] unit, earn [1000] Gold and recruit it", "All newly-trained [All] units [in all cities] receive the [Ayam Gold] promotion", "[8] Movement", "[+1000]% Strength <vs [All] units>", "[+5] Range", "[3] additional attacks per turn", "Defense bonus when embarked <for [All] units>" ] } 
 
 {
 		"name": "BNGX [United Nations]",
