@@ -7,8 +7,11 @@
 		"wonderCost": 185,
 		"techs": [
 			{
-				"name": "Pottery",
+				"name": "Ayam",
 				"row": 2,
-				"prerequisites": ["Agriculture"],
-				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"]
+				"prerequisites": ["Pottery"],
+				"quote": "Ayam"]
       }
+		]
+	}
+]
