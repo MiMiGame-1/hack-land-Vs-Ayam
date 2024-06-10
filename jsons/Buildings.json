@@ -36,7 +36,7 @@
 
 { "name": "Ayam Happiness Hack", "uniqueTo": "Ayam", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Happiness] per [1] population [in all cities]", "[+1000000]% [Happiness] [in all cities]", "[10] Happiness from each type of luxury resource", "[-1000]% Unhappiness from [Population] [in all cities]" ] }
 
-{ "name": "Ayam Food Hack", "uniqueTo": "Hack Land", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Food] per [1] population [in all cities]", "[+1000000]% [Food] [in all cities]", "[+1000]% growth [in all cities]" ] }
+{ "name": "Ayam Food Hack", "uniqueTo": "Ayam", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Food] per [1] population [in all cities]", "[+1000000]% [Food] [in all cities]", "[+1000]% growth [in all cities]" ] }
 
 { "name": "Ayam Science Hack", "uniqueTo": "Ayam", "cost": 1, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "[+1 Science] per [1] population [in all cities]", "[+1000000]% [Science] [in all cities]" ] }
 
