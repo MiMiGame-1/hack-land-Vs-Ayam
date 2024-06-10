@@ -7,7 +7,7 @@
 		"wonderCost": 185,
 		"techs": [
 			{
-				"name": "Ayam",
+				"name": "Ayam nO",
 				"row": 3,
 				"prerequisites": ["Pottery"],
 				"quote": "Ayam"}]
