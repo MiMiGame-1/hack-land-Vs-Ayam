@@ -10,4 +10,6 @@
 { "name": "2nd Ayam Ability", "uniques": [ "Blast radius [1]", "May capture killed [All] units", "Uncapturable", "[100]% chance to intercept air attacks", "[2] additional attacks per turn", "Invisible to others", "[+27] Gold  Ayam [All]", ] }, 
 
 { "name": "Ayam Gold", "uniques": ["Ayam Emas [+16]% [Gold]" ] },
+
+{ "name": "Ayam_1", "uniques": [ "Blast radius [1]", "May capture killed [All] units", "Uncapturable", "[100]% chance to intercept air attacks", "[2] additional attacks per turn", "Invisible to others", ] }, 
 ]
