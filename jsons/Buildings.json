@@ -55,5 +55,4 @@
 		"uniques": ["Triggers voting for the Diplomatic Victory", "Hidden when [Diplomatic] Victory is disabled", "Triggers a global alert upon completion"],
 		"quote": "'More than ever before in human history, we share a common destiny. We can master it only if we face it together. And that is why we have the United Nations.' - Kofi Annan"
 }
-{ "name": "ayam oli", "uniqueTo": "Orde Baru", "cost": 14, "isWonder": true, "uniques": [ "Destroyed when the city is captured", "Can only be built [in capital]", "When defeating a [All] unit, earn [300] Gold and recruit it", "All newly-trained [All] units [in all cities] receive the [Ayam_1] promotion", "[5] Movement", "[+1000]% Strength <vs [All] units>", "[+5] Range", "[3] additional attacks per turn", "Defense bonus when embarked <for [All] units>" ] } 
- ] 
+{ "name": "ayam oli", "uniqueTo": "Orde Baru", "cost": 14, "isWonder": true, "uniques": [ "All newly-trained [All] units [in all cities] receive the [Ayam_1] promotion, "Can only be built [in capital]" ] }
