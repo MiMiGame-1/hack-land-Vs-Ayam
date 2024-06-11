@@ -1,5 +1,7 @@
 # Security Policy
 
+y
+
 ## Supported Versions
 
 Use this section to tell people about which versions of your project are
@@ -7,10 +9,10 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.9.x   | :white_check_mark: |
-| 5.3.x   | :x:                |
-| 5.0.x   | :white_check_mark: |
-| 4.9.x   | :x:                |
+| 4.11.18-patch1   | :white_check_mark: |
+| 4.11.17   | :x:                |
+| 4.11.16   | :x: |
+| 4.11.14-patch1   | :x:                |
 
 ## Reporting a Vulnerability
 
