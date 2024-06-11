@@ -16,7 +16,7 @@
 		"neutralHello": "yo",
 		"hateHello": "oh..you, tell me what you want",
 		"tradeRequest": "It appears that you have a gigabyte of interest",
-		"cities": ["Lucky Patcher", "AC Market", "Cree Hack", "Leo Play Card", "Mod Droid", "A1", "An1", "Android1", "Happy Mod", "Android Apk Mods", "Game Guardian", "just...google?"],
+		"cities": ["VN", "DG", "Pi", "FJ", "A", "d", "Ayam J", "Qiaiai", "auaia", "hwua", "hwha", "just...poop?"],
 		"outerColor": [100,100,0],
 		"innerColor": [0,255,0], 
 		"uniqueName": "Hack Lords",
@@ -37,9 +37,9 @@
 		"hateHello": "oh..you, tell me what you want",
 		"tradeRequest": "It appears that you have a gigabyte of interest",
 		"cities": ["Molang City", "Pap", "Western Cree", "NO", "Hoa", "Ayam Goreng City", "East An1", "Middle An1", "RU", "BK", "Ayam Guardian", "West just...google?"],
-		"outerColor": [0,0,100],
-		"innerColor": [0,255,0], 
-		"uniqueName": "Hack Lords",
+		"outerColor": [0,5,100],
+		"innerColor": [0,20,89], 
+		"uniqueName": "Moaln Di Ak",
 		"uniques": ["May buy [All] buildings for [220] [Culture] [in all cities]", "May buy [All] units for [10] [Culture] [in all cities]", "+[3] Movement <for all [All] units>", "[-303]% maintenance costs for [All] units", "[7] additional attacks per turn", "[1] Range", "May withdraw before melee ([100]%)", "Invisible to others", "May capture killed [All] units", "Can move after attacking", "Can move immediately once bought", "No movement cost to pillage", "[+34] Sight <for [All] units>", "[+200]% Strength <vs [All] units>", "+[100] happiness from each type of luxury resource", "[+7 Science, +20 Food, +68 Gold, +19 Production, +78 Culture, +1 Faith, +7 Happiness] from every specialist [in all cities]", "[+88 Science, +1 Food, -1 Gold, +82 Production, -10 Culture, +99 Faith, +20 Happiness] from [All] tiles [in all cities]", "Quantity of Resources gifted by City-States increased by [28]%", "City-State Influence degrades [20]% slower", "Resting point for Influence with City-States is increased by [46]", "Cities are razed [77] times as fast", "Influence of all other civilizations with all city-states degrades [200]% faster", "Gifts of Gold to City-States generate [28]% more Influence", "Golden Age length increased by [2]%", "[-89]% tile improvement construction time", "Quantity of strategic resources produced by the empire +[29]%", "[-8]% unhappiness from population [in all cities]", "[+78]% [Production] MPM Molang Pas Moral [in all cities] Oal", "[+30]% [Food] [in all cities]", "[+3000]% [Gold] [in all cities]", "[+10]% [Science] [in all cities]", "[+88]% [Faith] [in all cities]", "[+99]% [Culture] [in all cities]", "[+30]% Natural religion spread [in all cities]", "Religion naturally spreads to cities [+7] tiles away", "[+5] Range", "+[5] Movement for [All] units", "[2] additional attacks per turn", "Units fight as though they were at full strength even when damaged", "Embarked units can defend themselves", "\"Borrows\" city names from other civilizations in the game", "Can spend Gold to annex or puppet a City-State that has been your ally for [1] turns.", "May capture killed [All] units", "Can embark and move over Coasts and Oceans immediately", "+[99999]% defensive strength for cities", "Invisible to others", "May choose [4] additional belief(s) of any type when [founding] a religion", "Land units may cross [Mountain] tiles after the first [Worker] is earned", "Units ending their turn on [Mountain] tiles take [2] damage"]
 }
 ]
