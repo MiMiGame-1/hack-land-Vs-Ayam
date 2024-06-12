@@ -9,6 +9,7 @@ currently being supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
+| 4.11.19-patch1   | 🤸 ✅|
 | 4.11.18-patch1   | :white_check_mark: |
 | 4.11.17   | :x:                |
 | 4.11.16   | :x: |
